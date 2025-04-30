@@ -1,0 +1,3 @@
+kimetsu,yaba, anime, 5.0 
+jujutsu,kaisen, manga, 7.0 
+aot,attack, aventura, 8.0 
