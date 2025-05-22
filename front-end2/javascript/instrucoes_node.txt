@@ -1,0 +1,3 @@
+node 
+primeiras letras do arquivo 
+tab
