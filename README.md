@@ -6,3 +6,10 @@ Para salvar os códigos feitos no vscode online através do git, precisa seguir 
     git add .
     git commit -m "salvar"
     git push
+
+
+#javascript
+# logica-senai
+
+npm install readline-sync
+node "nome do arquivo" + tab
